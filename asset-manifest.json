@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/tes.github.io/static/css/main.bc42c2b6.css",
-    "main.js": "/tes.github.io/static/js/main.cad3a30c.js",
+    "main.js": "/tes.github.io/static/js/main.41f7fcbe.js",
     "static/media/profile.png": "/tes.github.io/static/media/profile.a098539ff35c9bae506f.png",
     "static/media/project2.jpg": "/tes.github.io/static/media/project2.5fae296d371cc56cd98a.jpg",
     "static/media/project4.jpg": "/tes.github.io/static/media/project4.a7b7ed11daa072b234eb.jpg",
@@ -12,10 +12,10 @@
     "static/media/project6.jpg": "/tes.github.io/static/media/project6.a22c939898d6c4613b65.jpg",
     "index.html": "/tes.github.io/index.html",
     "main.bc42c2b6.css.map": "/tes.github.io/static/css/main.bc42c2b6.css.map",
-    "main.cad3a30c.js.map": "/tes.github.io/static/js/main.cad3a30c.js.map"
+    "main.41f7fcbe.js.map": "/tes.github.io/static/js/main.41f7fcbe.js.map"
   },
   "entrypoints": [
     "static/css/main.bc42c2b6.css",
-    "static/js/main.cad3a30c.js"
+    "static/js/main.41f7fcbe.js"
   ]
 }

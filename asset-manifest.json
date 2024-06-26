@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/tes.github.io/static/css/main.bc42c2b6.css",
+    "main.js": "/tes.github.io/static/js/main.7444a3f4.js",
+    "static/media/profile.png": "/tes.github.io/static/media/profile.a098539ff35c9bae506f.png",
+    "static/media/project2.jpg": "/tes.github.io/static/media/project2.5fae296d371cc56cd98a.jpg",
+    "static/media/project4.jpg": "/tes.github.io/static/media/project4.a7b7ed11daa072b234eb.jpg",
+    "static/media/project3.jpg": "/tes.github.io/static/media/project3.03535c34c110b7ea292b.jpg",
+    "static/media/logo.svg": "/tes.github.io/static/media/logo.0bad282e338a9971ebc84d7e1098fd15.svg",
+    "static/media/project5.jpg": "/tes.github.io/static/media/project5.f78aa3fd070fc4dd0bd1.jpg",
+    "static/media/logo2.svg": "/tes.github.io/static/media/logo2.8748cd4b53ed338faabde58af993f30a.svg",
+    "static/media/project6.jpg": "/tes.github.io/static/media/project6.a22c939898d6c4613b65.jpg",
+    "index.html": "/tes.github.io/index.html",
+    "main.bc42c2b6.css.map": "/tes.github.io/static/css/main.bc42c2b6.css.map",
+    "main.7444a3f4.js.map": "/tes.github.io/static/js/main.7444a3f4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bc42c2b6.css",
+    "static/js/main.7444a3f4.js"
+  ]
+}
